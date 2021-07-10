@@ -1,3 +1,6 @@
+# live site link:
+live site :https://programmerowais.github.io/blogr-page.github.io/
+
 # Frontend Mentor - Blogr landing page
 
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
