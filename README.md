@@ -5,7 +5,7 @@ live site :https://programmerowais.github.io/blogr-page.github.io/
 
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Welcome! 👋  .. 
 
 Thanks for checking out this front-end coding challenge.
 
